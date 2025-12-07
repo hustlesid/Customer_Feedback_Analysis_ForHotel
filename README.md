@@ -13,9 +13,7 @@ The project uses an Excel file containing multiple sheets, each representing dif
 | Sheet Name | Description |
 |------------|-------------|
 | **customer_feedback** | Main dataset with guest demographics, stay details, purpose of visit, experience scores, NPS ratings, and feedback sources. |
-| **Answer1-4** | Answers and analysis for Questions 1 to 4. |
-| **Answer5-7** | Answers and analysis for Questions 5 to 7. |
-| **Answer8-10** | Answers and analysis for Questions 8 to 10. |
+
 
 ---
 
